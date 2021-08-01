@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning ...
   - Reinforcement Learning to solve various combinatorial optimization problem, mainly multi-robot routing problem.
 - 📫 How to reach me ...
-  - Mail me! jungwoohan72@kaist.ac.k
+  - Mail me! jungwoohan72@kaist.ac.kr
 
 <!---
 jungwoohan72/jungwoohan72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
