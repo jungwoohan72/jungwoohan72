@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jungwoohan72
 - 👀 I’m interested in ...
   - Multi-robot system
+  - Last mile delivery
   - Task allocation and scheduling
   - Path planning
   - Reinforcement Learning.
