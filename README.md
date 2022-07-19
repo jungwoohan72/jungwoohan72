@@ -11,7 +11,7 @@
   - Reinforcement Learning to solve various combinatorial optimization problem, mainly multi-robot routing problem.
 - 📫 How to reach me ...
   - Mail me! jungwoohan72@kaist.ac.kr
-- Also, visit my notion https://jungwoohan.notion.site/Jungwoo-Han-315fd2a1442d4d66839e00cd9288ca3c
+- Also, visit my [CV](https://jungwoohan.notion.site/Jungwoo-Han-315fd2a1442d4d66839e00cd9288ca3c)
 
 <!---
 jungwoohan72/jungwoohan72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
