@@ -1,14 +1,16 @@
 - 👋 Hi, I’m @jungwoohan72
 - 👀 I’m interested in ...
+  - Autonomous Driving (AD)
   - Multi-robot system
   - Last mile delivery
   - Task allocation and scheduling
   - Path planning
   - Reinforcement Learning
-- 🌱 I’m currently learning ...
-  - Data augmentation methodologies for offline Reinforcement Learning
-  - Path planning algorithm for autonomous mobile robot
-  - Reinforcement Learning to solve various combinatorial optimization problem, mainly multi-robot routing problem.
+  - Data Augmentation
+  - Combinatorial Optimization
+- 🌱 I’m working on ...
+  - Lv 2+ AD decision algorithms
+  - Path generation
 - 📫 How to reach me ...
   - Mail me! jungwoohan72@hyundai.com
 - Also, check my [CV](https://jungwoohan.notion.site/Jungwoo-Han-315fd2a1442d4d66839e00cd9288ca3c)!
