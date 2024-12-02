@@ -10,7 +10,7 @@
   - Path planning algorithm for autonomous mobile robot
   - Reinforcement Learning to solve various combinatorial optimization problem, mainly multi-robot routing problem.
 - 📫 How to reach me ...
-  - Mail me! jungwoohan72@kaist.ac.kr
+  - Mail me! jungwoohan72@hyundai.com
 - Also, check my [CV](https://jungwoohan.notion.site/Jungwoo-Han-315fd2a1442d4d66839e00cd9288ca3c)!
 
 <!---
